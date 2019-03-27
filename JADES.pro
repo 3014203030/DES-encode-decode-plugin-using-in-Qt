@@ -45,3 +45,4 @@ DISTFILES +=
 
 RESOURCES += \
     js.qrc
+ICON = JSDES.icns
